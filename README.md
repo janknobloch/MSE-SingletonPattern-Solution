@@ -1,1 +1,1 @@
-# MSE18-SingletonPattern-Solution
+# MSE-SingletonPattern-Solution
